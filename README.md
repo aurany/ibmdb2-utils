@@ -1,3 +1,6 @@
+> :warning: **THIS PACKAGE IS NO LONGER NEEDED!**
+Since dbt-ibmdb2==0.2.0 utils are included in the adapter package.
+
 # ibmdb2-utils
 
 This [dbt](https://github.com/fishtown-analytics/dbt) package contains macros 
